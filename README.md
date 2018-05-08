@@ -29,7 +29,7 @@ This repo contains all my work for this specialization, [Deep Learning Specializ
 
 - Course 3: Structuring Machine Learning Projects
 
-  - There is no PA for this course. But this course comes with very interesting case study quizzes.
+  - There is no PA for this course. 
   
 - Course 4: Convolutional Neural Networks
 
