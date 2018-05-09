@@ -14,9 +14,9 @@ This repo contains all my work for this specialization, [Deep Learning Specializ
 
 - Course 1: Neural Networks and Deep Learning
 
-  - [Week 2 - PA 1 - Logistic Regression with a Neural Network mindset](https://github.com/Seifemichael/deep-learning-coursera-master/blob/master/blob/master/blob/master/Neural%20Networks%20and%20Deep%20Learning/Logistic%20Regression%20with%20%20a%20Neural%20Network%20mindset%20.ipynb)
-  - [Week 3 - PA 2 - Planar data classification with one hidden layer](https://github.com/Seifemichael/deep-learning-coursera-master/blob/master/blob/master/Neural%20Networks%20and%20Deep%20Learning/Planar%20data%20classification%20with%20one%20hidden%20layer.ipynb)
-  - [Week 4 - PA 3 - Building your Deep Neural Network: Step by Step¶](https://github.com/Seifemichael/deep-learning-coursera-master/blob/master/blob/master/Neural%20Networks%20and%20Deep%20Learning/Building%20your%20Deep%20Neural%20Network%20-%20Step%20by%20Step.ipynb)
+  - [Week 2 - PA 1 - Logistic Regression with a Neural Network mindset](https://github.com/Seifemichael/deep-learning-coursera-master/blob/master/Neural%20Networks%20and%20Deep%20Learning/Logistic%20Regression%20with%20%20a%20Neural%20Network%20mindset%20.ipynb)
+  - [Week 3 - PA 2 - Planar data classification with one hidden layer](https://github.com/Seifemichael/deep-learning-coursera-master/blob/master/Neural%20Networks%20and%20Deep%20Learning/Planar%20data%20classification%20with%20one%20hidden%20layer.ipynb)
+  - [Week 4 - PA 3 - Building your Deep Neural Network: Step by Step¶](https://github.com/Seifemichael/deep-learning-coursera-master/blob/master/Neural%20Networks%20and%20Deep%20Learning/Building%20your%20Deep%20Neural%20Network%20-%20Step%20by%20Step.ipynb)
   - [Week 4 - PA 4 - Deep Neural Network for Image Classification: Application](https://github.com/Seifemichael/deep-learning-coursera-master/blob/master/blob/master/Neural%20Networks%20and%20Deep%20Learning/Deep%20Neural%20Network%20-%20Application.ipynb)
 
 - Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
