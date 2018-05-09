@@ -6,7 +6,7 @@ Instructor: [Andrew Ng](http://www.andrewng.org/)
 
 ## Introduction
 
-This repo contains all my work for this specialization, [Deep Learning Specialization on Coursera](https://www.coursera.org/specializations/deep-learning).
+This repository contains the programming assignments and quizes for the specialization, [Deep Learning Specialization on Coursera](https://www.coursera.org/specializations/deep-learning).
 
 
 
@@ -42,8 +42,16 @@ This repo contains all my work for this specialization, [Deep Learning Specializ
 
   - [Week 1 - PA 1 - Building a Recurrent Neural Network - Step by Step](https://github.com/Seifemichael/deep-learning-coursera-master/blob/master/Sequence%20Models/Building%20a%20Recurrent%20Neural%20Network%20-%20Step%20by%20Step%20-%20v2.ipynb)
   - [Week 1 - PA 2 - Character level language model - Dinosaurus land](https://github.com/Seifemichael/deep-learning-coursera-master/blob/master/Sequence%20Models/Dinosaurus%20Island%20--%20Character%20level%20language%20model%20final%20-%20v3.ipynb)
+  - [Week 1 - PA 3 - Improvise a Jazz Solo with an LSTM Network](https://github.com/Seifemichael/deep-learning-coursera-master/blob/master/Sequence%20Models/Improvise%20a%20Jazz%20Solo%20with%20an%20LSTM%20Network%20-%20v1.ipynb)
+  - [Week 2 - PA 1 - Operations on word vectors](https://github.com/Seifemichael/deep-learning-coursera-master/blob/master/Sequence%20Models/Operations%20on%20word%20vectors%20-%20v2.ipynb)
+  - [Week 2 - PA 2 - Emojify!](https://github.com/Seifemichael/deep-learning-coursera-master/blob/master/Sequence%20Models/Emojify%20-%20v2.ipynb)
+  - [Week 3 - PA 1 - Neural Machine Translation](https://github.com/Seifemichael/deep-learning-coursera-master/blob/master/Sequence%20Models/Neural%20machine%20translation%20with%20attention%20-%20v2.ipynb)
+  - [Week 3 - PA 2 - Trigger Word Detection](https://github.com/Seifemichael/deep-learning-coursera-master/blob/master/Sequence%20Models/Trigger%20word%20detection%20-%20v1.ipynb)
+  
+  
+  
 
-## Quiz Solutions
+## Quizzes
 
 - Course 1: Neural Networks and Deep Learning
 
